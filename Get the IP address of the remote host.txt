@@ -1,0 +1,4 @@
+Get the IP address of the remote host
+
+http://stackoverflow.com/questions/9565889/get-the-ip-address-of-the-remote-host
+http://www.strathweb.com/2013/05/retrieving-the-clients-ip-address-in-asp-net-web-api/

@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/20079813/how-to-make-cors-authentication-in-webapi-2
